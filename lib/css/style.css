@@ -110,3 +110,13 @@ ul.links li {
     padding: 0 0 0 1em;
     margin: 0 0 0 1em;
 }
+
+@media (max-width: 360px) {
+    #banner{
+        background: lightblue;
+    }
+
+    .rowbox {
+        align: center;
+    }
+}
